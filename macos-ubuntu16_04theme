@@ -1,0 +1,4 @@
+echo "alias gogh='wget -O gogh https://git.io/vQgMr && chmod +x gogh && ./gogh && rm gogh';alias update='sudo apt update | lolcat -a -s 42';clear;neofetch" .bashrc
+sudo apt install lolcat unity-tweak-tool compiz git wget curl
+sudo git clone https://github.com/keeferrourke/la-capitaine-icon-theme.git /usr/share/icons/La-Capitaine
+sudo git clone https://github.com/B00merang-Project/macOS-High-Sierra /usr/share/themes/macOS-High-Sierra
